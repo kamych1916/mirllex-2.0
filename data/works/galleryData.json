@@ -1,0 +1,52 @@
+{
+  "galleryData": [
+    {
+      "id": 1,
+      "title": "Агентство Единный Подрядчик",
+      "category": "gallery-item-visible web-system",
+      "link": "/works-inside",
+      "imgSrc": "/images/aep.png",
+      "color": "#fff"
+    },
+    {
+      "id": 2,
+      "title": "Maidon.tj - недвижимость Таджикистана",
+      "category": "gallery-item-visible web-system",
+      "link": "/works-inside",
+      "imgSrc": "/images/mcc.png",
+      "color": "#fff"
+    },
+    {
+      "id": 3,
+      "title": "ZarinShop",
+      "category": "gallery-item-visible web-system mob-app",
+      "link": "/works-inside",
+      "imgSrc": "/images/zarinshop1.jpg",
+      "color": "#000"
+    },
+    {
+      "id": 4,
+      "title": "Дор Мост Сервис",
+      "category": "gallery-item-visible web-system",
+      "link": "/works-inside",
+      "imgSrc": "/images/dms.png",
+      "color": "#000"
+    },
+    {
+      "id": 5,
+      "title": "Механизм Рассмотрения Обращений",
+      "category": "gallery-item-visible web-system",
+      "link": "/works-inside",
+      "imgSrc": "/images/somoni1.jpg",
+      "color": "#fff"
+    },
+    {
+      "id": 6,
+      "title": "Телеграм бот",
+      "category": "gallery-item-visible net-work mob-app",
+      "link": "/works-inside",
+      "imgSrc": "/images/bot.jpg",
+      "color": "#fff"
+    }
+  ]
+}
