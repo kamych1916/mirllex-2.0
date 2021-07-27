@@ -92,96 +92,11 @@
               </div>
             </div>
 
-            <!--
-            <h1 class="small">Агентство Единный Подрядчик</h1>
-
-            <div class="description">
-              <p>
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque corrupti quos
-                dolores et quas molestias excepturi sint occaecati cupiditate
-                non provident, similique sunt in culpa.
-              </p>
-
-              <h5>Idea</h5>
-
-              <p>
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque corrupti quos
-                dolores et quas molestias excepturi sint occaecati cupiditate.
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque corrupti quos
-                dolores et quas molestias excepturi sint occaecati cupiditate
-                non provident, similique sunt in culpa.
-              </p>
-
-              <h5>Product features</h5>
-
-              <ul>
-                <li>At vero eos et accusamus</li>
-                <li>At vero eos et accusamus</li>
-                <li>At vero eos et accusamus</li>
-                <li>At vero eos et accusamus</li>
-              </ul>
+            <div class="my-5">
+              <img src="/images/aep-background-3.jpg" />
             </div>
-            -->
 
-            <!-- <div class="row gutter-width-lg single-content">
-              <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-                <div
-                  v-for="item in items"
-                  :key="item.id"
-                  class="img object-fit"
-                >
-                  <div class="object-fit-cover">
-                    <img :src="item.imgSrc" :alt="item.alt" />
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
-                <div class="sticky">
-                  <p class="date">
-                    <span class="large">25</span> May,
-                    {{ new Date().getFullYear() }}
-                  </p>
-
-                  <h1 class="small">Агентство Единный Подрядчик</h1>
-
-                  <div class="description">
-                    <p>
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui blanditiis praesentium voluptatum deleniti atque
-                      corrupti quos dolores et quas molestias excepturi sint
-                      occaecati cupiditate non provident, similique sunt in
-                      culpa.
-                    </p>
-
-                    <h5>Idea</h5>
-
-                    <p>
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui blanditiis praesentium voluptatum deleniti atque
-                      corrupti quos dolores et quas molestias excepturi sint
-                      occaecati cupiditate. At vero eos et accusamus et iusto
-                      odio dignissimos ducimus qui blanditiis praesentium
-                      voluptatum deleniti atque corrupti quos dolores et quas
-                      molestias excepturi sint occaecati cupiditate non
-                      provident, similique sunt in culpa.
-                    </p>
-
-                    <h5>Product features</h5>
-
-                    <ul>
-                      <li>At vero eos et accusamus</li>
-                      <li>At vero eos et accusamus</li>
-                      <li>At vero eos et accusamus</li>
-                      <li>At vero eos et accusamus</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div> -->
+            <Request class="my-5 py-5" />
           </div>
         </div>
       </section>
@@ -210,8 +125,8 @@ export default {
     document.body.classList.remove("bg-fixed");
     document.body.classList.remove("bg-line");
   },
-  metaInfo: {
-    title: "Works inside | Oxer - Minimal Portfolio Vue JS Template",
+  head: {
+    title: "Кейс | Агентство Единный подрядчик",
     titleTemplate: "%s",
   },
 };
