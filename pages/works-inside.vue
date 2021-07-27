@@ -1,6 +1,6 @@
 <template>
   <div id="works-inside-index">
-    <main id="main" class="site-main bg-half-ring-right bg-half-ring-top">
+    <main id="main" class="site-main bg-half-ring-right bg-half-ring-top pt-5">
       <section id="page-content">
         <div class="wrapper">
           <div id="single">
