@@ -2,17 +2,17 @@
   "worksInsideData": [
     {
       "id": 1,
-      "imgSrc": "/images/966x560.jpg",
+      "imgSrc": "/images/966x560-1.jpg",
       "alt": "Product photography"
     },
     {
       "id": 2,
-      "imgSrc": "/images/966x560.jpg",
+      "imgSrc": "/images/aep-2.png",
       "alt": "Product photography"
     },
     {
       "id": 3,
-      "imgSrc": "/images/966x560.jpg",
+      "imgSrc": "/images/966x560-1.jpg",
       "alt": "Product photography"
     }
   ]

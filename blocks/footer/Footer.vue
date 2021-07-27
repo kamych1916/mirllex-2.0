@@ -6,8 +6,8 @@
           <div class="col-xl-4 col-lg-4 align-self-center">
             <div class="copyright">
               <p>
-                © {{ new Date().getFullYear() }} Portfolio Template By
-                <a href="https://www.adveits.com">Adveits</a>
+                © {{ new Date().getFullYear() }} Mirllex —
+                <a href="mailto:info@mirllex.space">info@mirllex.space</a>
               </p>
             </div>
           </div>
@@ -30,7 +30,7 @@
 <script>
 import { Fragment } from "vue-fragment";
 
-import MenuModal from "../../components/Modal/MenuModal";
+import MenuModal from "~/components/Modal/MenuModal";
 import MenuSecondary from "../General/MenuSecondary";
 
 export default {

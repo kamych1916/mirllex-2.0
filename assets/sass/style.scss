@@ -251,6 +251,11 @@ body {
         padding-right: 1.25rem;
     }
 }
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 20px;
+}
 
 /*=============================
 // #3.1 Font

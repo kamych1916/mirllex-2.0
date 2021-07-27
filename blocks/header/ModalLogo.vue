@@ -4,7 +4,7 @@
     class="logo logo-secondary transform-scale-h"
     to="/"
   >
-    <img @click="closeModal" src="/images/logo/logo-2.svg" alt="Logo" />
+    <img @click="closeModal" src="/images/logo/logo-4.svg" alt="Logo" />
   </router-link>
 </template>
 

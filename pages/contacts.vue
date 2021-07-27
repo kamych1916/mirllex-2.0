@@ -8,55 +8,42 @@
           <div id="contacts" class="block">
             <div class="row">
               <div class="col-xl-4 col-lg-4 col-md-4 col-12">
-                <h2>Here you <br />can <span class="line">contact me</span></h2>
+                <h2 class="pb-4">Заходите <span class="line">в гости</span></h2>
 
-                <p class="mt-0">
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque
-                  ipsa quae.
+                <p class="mt-0 pt-0">
+                  Где бы вы ни были – мы всегда на связи! Аудио, видео или лично
+                  – нам подходит всё!
                 </p>
               </div>
 
-              <div class="col-xl-8 col-lg-8 col-md-8 col-12">
+              <div class="col-xl-8 col-lg-8 col-md-8 col-12 pt-2">
                 <div class="list-group list-group-horizontal-sm">
                   <div class="list-group-item">
-                    <h4>City</h4>
+                    <h4>Город</h4>
 
-                    <p>Colorado Springs</p>
+                    <p>Душанбе <br />Санкт Петербург</p>
                   </div>
 
                   <div class="list-group-item">
-                    <h4>Clipping</h4>
-
-                    <p>CO</p>
-                  </div>
-
-                  <div class="list-group-item">
-                    <h4>State</h4>
-
-                    <p>Colorado</p>
-                  </div>
-
-                  <div class="list-group-item">
-                    <h4>Phone</h4>
+                    <h4>Телефон</h4>
 
                     <p>
-                      <a title="719-338-4628" href="tel:719-338-4628"
-                        >719-338-4628</a
-                      >
+                      <a title="+992 918 622 774" href="tel:+992918622774">
+                        +992 918 622 774 &nbsp;( Рахимов Камол )
+                      </a>
+                      <a title="+7 981 125 99 48" href="tel:+79811259948">
+                        +7 981 125 99 48 &nbsp;&nbsp;( Тьет Зъонг )
+                      </a>
                     </p>
                   </div>
-                </div>
-
-                <div class="list-group list-group-horizontal-sm mt-0">
                   <div class="list-group-item mb-0 pb-0">
-                    <h4>Email</h4>
+                    <h4>Почта</h4>
 
                     <p>
                       <a
-                        title="hello@yourdomain.com"
-                        href="mailto:hello@yourdomain.com"
-                        >hello@yourdomain.com</a
+                        title="info@mirllex.space"
+                        href="mailto:info@mirllex.space"
+                        >info@mirllex.space</a
                       >
                     </p>
                   </div>
@@ -65,8 +52,8 @@
             </div>
           </div>
 
-          <div class="block spacer p-top-xl">
-            <h2>Fill up a <span class="line">form</span></h2>
+          <div class="block spacer mt-5">
+            <h2>Оставьте <span class="line">заявку</span></h2>
 
             <ContactsForm />
           </div>

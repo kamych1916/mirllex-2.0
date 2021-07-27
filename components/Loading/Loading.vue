@@ -9,7 +9,7 @@
                 <img
                   class="animated zoomIn"
                   v-if="show"
-                  src="/images/logo/logo-2.svg"
+                  src="/images/logo/logo-4.svg"
                   alt="Logo"
                 />
               </transition>

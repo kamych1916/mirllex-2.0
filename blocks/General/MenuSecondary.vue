@@ -3,6 +3,7 @@
     <ul class="clearfix list-unstyled">
       <li v-for="item in items" :key="item.id">
         <a
+          target="_blank"
           :title="item.title"
           class="btn btn-link transform-scale-h border-0 p-0"
           :href="item.href"

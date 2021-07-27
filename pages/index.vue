@@ -16,7 +16,7 @@
 
     <OurServices />
 
-    <section id="contact" class="block spacer p-top-xl">
+    <section id="contact" class="block spacer p-top-sm">
       <div class="wrapper">
         <div class="text-center">
           <h3 class="mb-0 after">
@@ -36,7 +36,7 @@
       </div>
     </section>
 
-    <!-- <Blog /> -->
+    <Blog />
   </main>
 </template>
 
@@ -44,13 +44,13 @@
 import PageTitle from "~/blocks/index/PageTitle";
 import MyWorks from "~/blocks/works/MyWorks";
 import OurServices from "~/blocks/services/OurServices";
-// import Blog from "~/blocks/index/Blog";
+import Blog from "~/blocks/index/Blog";
 export default {
   components: {
     PageTitle,
     MyWorks,
     OurServices,
-    // Blog,
+    Blog,
   },
 };
 </script>

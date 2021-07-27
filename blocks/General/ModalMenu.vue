@@ -8,12 +8,12 @@
         <router-link title="Home" to="/">Главная</router-link>
       </li>
 
-      <li
+      <!-- <li
         @click="toggleMenuModal"
         :class="[currentPage.includes('about') ? activeClass : '', 'menu-item']"
       >
         <router-link title="About" to="/about">О нас</router-link>
-      </li>
+      </li> -->
 
       <li
         @click="toggleMenuModal"
