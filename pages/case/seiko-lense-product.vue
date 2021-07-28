@@ -53,21 +53,33 @@
                   <h5>Идея и задача</h5>
 
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum deleniti atque
-                    corrupti quos dolores et quas molestias excepturi sint
-                    occaecati cupiditate. At vero eos et accusamus et iusto odio
-                    dignissimos ducimus qui blanditiis praesentium voluptatum
-                    deleniti atque corrupti quos dolores et quas molestias
-                    excepturi sint occaecati cupiditate non provident, similique
-                    sunt in culpa.
+                    В&nbsp;основе идеи лежала автоматизация процесса оформления
+                    заказа. Партнеры компании Seiko получили возможность,
+                    используя telegram бот, узнать наличие товара на&nbsp;складе
+                    и&nbsp;при желании оформить заказ. До&nbsp;момента создания
+                    бота, партнёром необходимо было связываться
+                    с&nbsp;менеджером компании SEIKO, который принимал заказ
+                    и&nbsp;вручную оформлял в&nbsp;1С. На&nbsp;данный момент
+                    данный процесс был полностью автоматизирован, заказы
+                    оформляются в&nbsp;1с, происходит регулярное обновление
+                    склада, а&nbsp;менеджер получает уведомление
+                    об&nbsp;оформлении заказал.
                   </p>
 
-                  <h5>Над проектом работал</h5>
-
-                  <div>Веб-мастер</div>
-                  <div class="mt-3">
-                    <b>Дмитрий Криничный</b>
+                  <h5>Над проектом работали</h5>
+                  <div class="row">
+                    <div class="col-lg">
+                      <div>Веб-мастер</div>
+                      <div class="mt-3">
+                        <b>Дмитрий Криничный</b>
+                      </div>
+                    </div>
+                    <div class="col-lg">
+                      <div>1c-разработчик</div>
+                      <div class="mt-3">
+                        <b>Александр Сироткин</b>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>

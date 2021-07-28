@@ -83,7 +83,7 @@
                 </div>
                 <div class="col-lg">
                   <div>Веб-мастер</div>
-                  <div class="mt-3"><b>Рахимов Камол</b></div>
+                  <div class="mt-3"><b>Камол Рахимов</b></div>
                 </div>
                 <div class="col-lg">
                   <div>Проектный менеджер</div>
