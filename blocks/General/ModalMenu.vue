@@ -29,7 +29,7 @@
           'menu-item',
         ]"
       >
-        <router-link title="Journal" to="/journal">Новости</router-link>
+        <router-link title="Journal" to="/journal">Блог</router-link>
       </li>
 
       <li

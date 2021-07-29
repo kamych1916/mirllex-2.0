@@ -9,24 +9,23 @@
     background-color: $body_background_color;
     border: 0;
     height: 100%;
-    
+
     // Card post img
     .img {
-        opacity: 0.34;
         @extend .transition-opacity;
-        
+
         &:hover {
             opacity: 1;
             @extend .transition-opacity;
         }
-        
+
         &.object-fit {
             &:before {
                 padding-top: 95%;
             }
         }
     }
-    
+
     // Card post category
     .card-category {
         font-family: $font_secondary_bold;
@@ -34,50 +33,50 @@
         left: 0;
         bottom: 0;
         padding: 0 0 2.25rem 2.25rem;
-        
+
         a {
             font-family: $font_secondary_bold;
             margin-right: 1.125rem;
-            
+
             &:last-child {
                 margin-right: 0;
             }
-            
+
             &.btn {
                 background-color: $white;
                 border-color: $white;
-                
+
                 &:hover {
                     background-color: $white;
                     border-color: $white;
                 }
             }
         }
-        
+
         &.no-thumbnail {
             position: relative;
             padding: 1.14rem 0.7rem 1.14rem .7rem;
         }
     }
-    
+
     // Card post body
     .card-body {
         padding: 2.25rem;
-                
+
         // Card post title
         .card-title {
             margin-bottom: 0;
-            
+
             a {
                 display: block;
-                
+
                 &:hover {
                     opacity: 0.8;
                 }
             }
         }
     }
-    
+
     // Is sticky
     &.sticky {
         box-shadow: -10px 20px 40px 0 rgba(0, 0, 0, 0.06);
@@ -88,7 +87,7 @@
 .card-body {
     &.p-large {
         padding: 3.13rem 4.38rem;
-        
+
         @media #{$media_xxl} {
             padding: 2.19rem 3.44rem;
         }
@@ -98,7 +97,7 @@
 // Card height
 .card {
     height: 100%;
-    
+
     h1, h2, h3, h4, h5, h6 {
         &:hover {
             opacity: 0.8;
@@ -114,16 +113,16 @@
     &-ef1 {
         &:hover {
             opacity: 1;
-            
+
             .card-hover-content {
                 &:before {
                     transform: translateX(0);
                     visibility: visible;
                 }
-                
+
                 .card-hover-wrapper {
                     opacity: 1;
-                } 
+                }
             }
         }
     }
@@ -138,7 +137,7 @@
     height: 100%;
     transition: all .5s ease-in-out;
     overflow: hidden;
-    
+
     &:before {
         content: "";
         width: 100%;
@@ -149,7 +148,7 @@
         transform: translateX(-100%);
         transition: all .5s ease-in-out;
     }
-    
+
     .card-hover-wrapper {
         position: absolute;
         z-index: 3;

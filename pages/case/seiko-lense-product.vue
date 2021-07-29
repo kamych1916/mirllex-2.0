@@ -39,9 +39,15 @@
                   <span class="large">30</span>июня 2021
                 </p>
 
-                <h1 class="small">Seiko Lense Product</h1>
-
-                <div class="description">
+                <h1 class="small mb-2">Seiko Lense Product.</h1>
+                <a
+                  href="https://t.me/seikolens_bot"
+                  target="_blank"
+                  style="color: #d07679"
+                >
+                  Использовать бота.
+                </a>
+                <div class="description mt-5">
                   <p>
                     &laquo;Siko Lense&raquo; основана в&nbsp;2003&nbsp;г.
                     Эксклюзивный представитель ведущих мировых оптических

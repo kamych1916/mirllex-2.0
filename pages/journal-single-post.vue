@@ -1,7 +1,18 @@
 <template>
   <div id="journal-single-post-index">
     <main id="main" class="site-main">
-      <PageTitle />
+      <section id="page-title">
+        <div class="wrapper">
+          <div class="title position-relative">
+            <h1 class="small">
+              Хочешь научиться создавать <span class="line">сайты</span>, но не
+              знаешь с чего начать?
+            </h1>
+
+            <div class="title-clone">Блог.</div>
+          </div>
+        </div>
+      </section>
 
       <section id="page-content" class="spacer m-top-xl">
         <div class="wrapper">
@@ -17,7 +28,7 @@
                 <div class="img object-fit">
                   <div class="object-fit-cover">
                     <img
-                      src="/images/1113x510.jpg"
+                      src="/images/post-1.jpg"
                       alt="What to do when holidays go wrong"
                     />
                   </div>
@@ -86,7 +97,6 @@
 </template>
 
 <script>
-import PageTitle from "~/blocks/journal-single-post/PageTitle";
 import Meta from "~/blocks/journal-single-post/Meta";
 import Tags from "~/blocks/journal-single-post/Tags";
 import Comments from "~/blocks/journal-single-post/Comments";
@@ -94,7 +104,6 @@ import Sidebar from "~/blocks/journal/Sidebar";
 
 export default {
   components: {
-    PageTitle,
     Meta,
     Tags,
     Comments,

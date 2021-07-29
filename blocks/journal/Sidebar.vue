@@ -1,8 +1,8 @@
 <template>
-  <aside id="aside" class="widget-area">
-    <RecentComments />
+  <aside id="aside" class="widget-area sticky">
+    <!-- <RecentComments /> -->
 
-    <div id="archives-2" class="widget widget_archive">
+    <!-- <div id="archives-2" class="widget widget_archive">
       <h5 class="widget-title">Archives</h5>
 
       <ul>
@@ -12,25 +12,25 @@
           >
         </li>
       </ul>
-    </div>
+    </div> -->
 
     <Categories />
 
-    <Meta />
+    <!-- <Meta /> -->
   </aside>
 </template>
 
 <script>
-import RecentComments from "../../blocks/sidebar/RecentComments";
-import Categories from "../../blocks/sidebar/Categories";
-import Meta from "../../blocks/sidebar/Meta";
+// import RecentComments from "~/blocks/sidebar/RecentComments";
+import Categories from "~/blocks/sidebar/Categories";
+// import Meta from "~/blocks/sidebar/Meta";
 
 export default {
   name: "Sidebar",
   components: {
     Categories,
-    RecentComments,
-    Meta,
+    // RecentComments,
+    // Meta,
   },
 };
 </script>

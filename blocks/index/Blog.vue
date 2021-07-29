@@ -3,7 +3,7 @@
     <div class="wrapper">
       <h2 class="text-right">
         <router-link title="Blogging" class="transform-scale-h" to="/journal">
-          <span class="line">Новости</span>
+          <span class="line">Блог</span>
         </router-link>
       </h2>
     </div>

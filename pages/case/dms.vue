@@ -11,7 +11,10 @@
                   <span class="large">01</span>октября 2020
                   <!-- {{ new Date().getFullYear() }} -->
                 </p>
-                <h1 class="small">Дор Мост Сервис</h1>
+                <h1 class="small">Дор Мост Сервис.</h1>
+                <p style="color: #d07679">
+                  Система недоступна для общего пользования.
+                </p>
               </div>
               <div
                 class="
