@@ -2,7 +2,7 @@
   "galleryData": [
     {
       "id": 1,
-      "title": "Агентство Единный Подрядчик",
+      "title": "Агентство Единый Подрядчик",
       "category": "gallery-item-visible web-system",
       "link": "/case/aep",
       "imgSrc": "/images/aep.png",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "title": "Телеграм бот",
+      "title": "Seiko Lense — Телеграм-бот",
       "category": "gallery-item-visible net-work mob-app",
       "link": "/case/seiko-lense-product",
       "imgSrc": "/images/bot.jpg",

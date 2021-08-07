@@ -1,6 +1,6 @@
 <template>
   <div id="journal-index">
-    <main id="main" class="site-main">
+    <main id="main" class="site-main p-0 mt-5">
       <PageTitle />
 
       <section id="page-content" class="spacer p-top-xl">

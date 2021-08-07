@@ -73,17 +73,17 @@
                 <b class="fs-22">Над проектом работали</b>
               </p>
               <div class="row">
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Front-end разработчик</div>
                   <div class="mt-3">
                     <b>Камол Рахимов</b>
                   </div>
                 </div>
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Back-end разработчик</div>
                   <div class="mt-3"><b>Дмитрий Криничный</b></div>
                 </div>
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Проектный менеджер</div>
                   <div class="mt-3"><b>Тьет Зыонг</b></div>
                 </div>
@@ -124,7 +124,7 @@ export default {
     document.body.classList.remove("bg-line");
   },
   head: {
-    title: "Кейс | Агентство Единный подрядчик",
+    title: "Кейс | Агентство Единый подрядчик",
     titleTemplate: "%s",
   },
 };

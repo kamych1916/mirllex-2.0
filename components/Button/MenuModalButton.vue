@@ -1,5 +1,13 @@
 <template>
   <div class="menu-toggle align-self-center no-space">
+    <nuxt-link
+      to="/journal"
+      class="btn btn-link border-0 transform-scale-h"
+      data-toggle="modal"
+      data-target="#menu-modal"
+    >
+      <span class="align-middle">Блог</span>
+    </nuxt-link>
     <button
       @click="toggleMenuModal"
       type="button"

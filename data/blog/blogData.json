@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Хочешь научиться создавать сайты, но не знаешь с чего начать?",
       "link": "/journal-single-post",
-      "imgSrc": "/images/post-3.jpg",
+      "imgSrc": "/images/posts/post-3.jpg",
       "categoryLink": "/journal",
       "category": "IT"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Как Data Science помогает бороться с преступлениями в США",
       "link": "/journal-single-post",
-      "imgSrc": "/images/post-2.jpg",
+      "imgSrc": "/images/posts/post-2.jpg",
       "categoryLink": "/journal",
       "category": "IT"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Почему вам стоит выбрать фреймворк Django для своего следующего проекта",
       "link": "/journal-single-post",
-      "imgSrc": "/images/post-1.jpg",
+      "imgSrc": "/images/posts/post-1.jpg",
       "categoryLink": "/journal",
       "category": "IT"
     }

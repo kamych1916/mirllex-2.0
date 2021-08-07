@@ -38,7 +38,7 @@
               </p>
               <p>
                 Наша задача&nbsp;&mdash; создание веб-системы, или также
-                системы-мониторинга, благодаря, которой руководители будут вести
+                системы-мониторинга, благодаря которой руководители будут вести
                 учет и&nbsp;мониторинг внутренних процессов компании.
               </p>
             </div>
@@ -59,11 +59,11 @@
 
               <p>
                 Мы&nbsp;разработали веб-систему, которой будут пользоваться
-                только руководители проектов компании, для введения отчетности и
+                только руководители проектов компании для введения отчетности и
                 мониторинга объектов. Например:
                 <ul class="mt-3">
                   <li>
-                    добавление нового сотрудника, распределения его в&nbsp;олпределнные объекты и&nbsp;выделение ему зарплаты
+                    добавление нового сотрудника, распределение его в&nbsp;определённые объекты и&nbsp;выделение ему зарплаты
                   </li>
                   <li>
                     добавление нового объекта и&nbsp;мониторинг над ним
@@ -76,35 +76,37 @@
               <img src="/images/dms-background-2.jpg" />
             </div>
 
+            <div class="my-5">
+              <img src="/images/dms-background-4.jpg" />
+            </div>
+
             <div class="container my-5">
               <p>
                 <b class="fs-22">Над проектом работали</b>
               </p>
               <div class="row">
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Front-end разработчик</div>
                   <div class="mt-3">
                     <b>Камол Рахимов</b>
                   </div>
                 </div>
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Back-end разработчик</div>
                   <div class="mt-3"><b>Никита Яковлел</b></div>
                 </div>
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Веб-мастер</div>
                   <div class="mt-3"><b>Павел Кацков</b></div>
                 </div>
-                <div class="col-lg">
+                <div class="col-lg my-4">
                   <div>Проектный менеджер</div>
                   <div class="mt-3"><b>Павел Легкодымов</b></div>
                 </div>
               </div>
             </div>
 
-            <div class="my-5">
-              <img src="/images/dms-background-4.jpg" />
-            </div>
+
 
             <Request class="my-5 py-5" />
           </div>
@@ -136,7 +138,7 @@ export default {
     document.body.classList.remove("bg-line");
   },
   head: {
-    title: "Кейс | Агентство Единный подрядчик",
+    title: "Кейс | Агентство Единый подрядчик",
     titleTemplate: "%s",
   },
 };

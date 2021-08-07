@@ -28,7 +28,7 @@
                 <div class="img object-fit">
                   <div class="object-fit-cover">
                     <img
-                      src="/images/post-1.jpg"
+                      src="/images/posts/post-1.jpg"
                       alt="What to do when holidays go wrong"
                     />
                   </div>

@@ -1,0 +1,28 @@
+{
+  "categories": {
+    "it": {
+      "post-1": {
+        "title": "Хочешь научиться создавать сайты, но не знаешь с чего начать?",
+        "img": "/images/posts/post-1",
+        "text": "lorem ipsum 1",
+        "last": true
+      },
+      "post-2": {
+        "title": "Как Data Science помогает бороться с преступлениями в США",
+        "img": "/images/posts/post-2",
+        "text": "lorem ipsum 2",
+        "last": true
+      },
+      "post-3": {
+        "title": "Почему вам стоит выбрать фреймворк Django для своего следующего проекта",
+        "img": "/images/posts/post-3",
+        "text": "lorem ipsum 3",
+        "last": true
+      }
+    },
+    "smm": {},
+    "design": {},
+    "menagment": {},
+    "cources": {}
+  }
+}
